@@ -38,7 +38,7 @@ as legitimate requests.
 - Client-side cryptographic validation (Luhn checksum)
 
 ## Running the Demo
-1. Open `safebank-llm.html` in any browser
+1. Open `https://alreco9.github.io/safeBank-llm/` in any browser
 2. Enter your own Anthropic API key (get one at [platform.claude.com](https://platform.claude.com))
 3. Try the pre-built examples or type your own message
 
